@@ -68,7 +68,7 @@
             <!-- Email -->
             <div class="flex justify-between items-center">
               <span class="text-sm text-gray-400">Email</span>
-              <span class="text-sm font-medium text-gray-900">{{ user.email }}</span>
+              <span class="text-sm font-medium truncate text-gray-900">{{ user.email }}</span>
             </div>
           </div>
         </div>

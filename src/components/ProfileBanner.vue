@@ -16,7 +16,7 @@
 
 
         <!-- Name and Buttons Container -->
-        <div class="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-6 w-full md:w-auto   ">
+        <div class="flex flex-col lg:flex-row md:flex-col items-start md:items-start lg:items-center gap-4 md:gap-6 w-full md:w-auto">
           <!-- User Info -->
           <div class="flex-1">
             <h2 class="text-xl sm:text-2xl lg:text-5xl md:text-2xl font-extrabold text-white mb-1">
