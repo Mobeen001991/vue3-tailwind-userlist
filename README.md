@@ -87,3 +87,5 @@ The application uses the [Random User API](https://randomuser.me/api/) to fetch 
 Modern browsers that support ES6+ features.
 
 
+
+

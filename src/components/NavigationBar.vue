@@ -1,6 +1,5 @@
 <template>
-  <!-- Red line at the very top -->
-  <div class="h-1 bg-red-500"></div>
+  <!-- Red line at the very top --> 
   <nav class="bg-white border-b border-gray-200 px-6 py-4">
     <div class="container mx-auto view-container flex items-center justify-between">
       <!-- Logo -->
